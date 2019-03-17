@@ -1,0 +1,998 @@
+[31-Mar-2018 08:26:02 America/Denver] PHP Warning:  fopen(users/tal.php): failed to open stream: File exists in /home1/outptcom/public_html/knifes/knifes/add.php on line 6
+[31-Mar-2018 08:26:02 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[31-Mar-2018 08:26:02 America/Denver] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[31-Mar-2018 08:56:35 America/Denver] PHP Warning:  fopen(users/tal.php): failed to open stream: File exists in /home1/outptcom/public_html/knifes/knifes/add.php on line 6
+[31-Mar-2018 08:56:35 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[31-Mar-2018 08:56:35 America/Denver] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[31-Mar-2018 14:12:34 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[31-Mar-2018 14:12:50 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[31-Mar-2018 14:12:52 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:36:20 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home1/outptcom/public_html/knifes/knifes/users/.php on line 1
+[04-Apr-2018 10:48:59 America/Denver] PHP Warning:  include(users/ody.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:48:59 America/Denver] PHP Warning:  include(): Failed opening 'users/ody.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:00 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:00 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:01 America/Denver] PHP Warning:  include(users/ody.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:01 America/Denver] PHP Warning:  include(): Failed opening 'users/ody.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:02 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:03 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:05 America/Denver] PHP Warning:  include(users/ody.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:05 America/Denver] PHP Warning:  include(): Failed opening 'users/ody.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:06 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:06 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:08 America/Denver] PHP Warning:  include(users/ody.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:08 America/Denver] PHP Warning:  include(): Failed opening 'users/ody.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:09 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:10 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:19 America/Denver] PHP Warning:  include(users/ody.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:19 America/Denver] PHP Warning:  include(): Failed opening 'users/ody.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:20 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:21 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:25 America/Denver] PHP Warning:  include(users/ody.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:25 America/Denver] PHP Warning:  include(): Failed opening 'users/ody.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:49:26 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:49:26 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:51:09 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:51:09 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:52:37 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:52:39 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:52:40 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:52:41 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:52:41 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:52:42 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:52:52 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:52:54 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:52:54 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:52:55 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:53:02 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:53:03 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:53:45 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:53:45 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 5
+[04-Apr-2018 10:53:46 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:53:47 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:53:54 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:53:54 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:23 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:24 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:31 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 17
+[04-Apr-2018 10:54:31 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:31 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:32 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:52 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:53 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:54 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:54 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:55 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:55 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:56 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:57 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:57 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:58 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:58 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:59 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:59 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:59 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:59 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:54:59 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:54:59 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:55:00 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:55:10 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:55:11 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:55:11 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 10:55:11 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:55:28 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:55:29 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:55:41 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:55:42 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:55:42 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:55:43 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:59:02 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:59:03 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:59:05 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 10:59:06 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:02:37 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:02:38 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:02:58 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 17
+[04-Apr-2018 11:02:59 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:03:00 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:00 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:01 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:03:02 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:03:02 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:03 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:03 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:03:04 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:03:04 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:05 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:06 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:03:07 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:03:07 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:08 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:12 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:13 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:45 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 17
+[04-Apr-2018 11:03:46 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:03:46 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:47 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:53 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 17
+[04-Apr-2018 11:03:54 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:03:54 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:03:55 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:04:19 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:04:20 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:04:27 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:04:27 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:05:38 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:05:39 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 11:05:39 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:05:40 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:05:55 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:05:55 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:05:57 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 11:05:58 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:24:38 America/Denver] PHP Warning:  fopen(users/tal.php): failed to open stream: File exists in /home1/outptcom/public_html/knifes/knifes/add.php on line 6
+[04-Apr-2018 14:24:38 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[04-Apr-2018 14:24:38 America/Denver] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[04-Apr-2018 14:25:39 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:48:00 America/Denver] PHP Warning:  fopen(users/ofir.php): failed to open stream: File exists in /home1/outptcom/public_html/knifes/knifes/add.php on line 6
+[04-Apr-2018 14:48:00 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[04-Apr-2018 14:48:00 America/Denver] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[04-Apr-2018 14:48:10 America/Denver] PHP Warning:  fopen(users/ofir.php): failed to open stream: File exists in /home1/outptcom/public_html/knifes/knifes/add.php on line 6
+[04-Apr-2018 14:48:10 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[04-Apr-2018 14:48:10 America/Denver] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[04-Apr-2018 14:54:06 America/Denver] PHP Warning:  fopen(users/tal.php): failed to open stream: File exists in /home1/outptcom/public_html/knifes/knifes/add.php on line 6
+[04-Apr-2018 14:54:06 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[04-Apr-2018 14:54:06 America/Denver] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[04-Apr-2018 14:54:43 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 14:54:43 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:54:43 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:54:46 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 14:54:47 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:54:48 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 14:54:49 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:55:00 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 14:55:01 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:55:02 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 14:55:03 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:55:08 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:55:14 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:55:15 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:57:08 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 14:57:09 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:58:33 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 14:58:51 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 14:58:52 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:00:45 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:00:54 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:01:29 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 15:01:30 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:01:59 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 15:02:00 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:02:14 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 15:02:15 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:04:40 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 15:04:41 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:04:47 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 15:04:48 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:05:33 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 15:05:34 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:05:37 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:05:44 America/Denver] PHP Warning:  include(users/ads.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[04-Apr-2018 15:05:44 America/Denver] PHP Warning:  include(): Failed opening 'users/ads.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[04-Apr-2018 15:05:46 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:05:48 America/Denver] PHP Warning:  include(users/adsqew.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[04-Apr-2018 15:05:48 America/Denver] PHP Warning:  include(): Failed opening 'users/adsqew.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[04-Apr-2018 15:05:49 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 15:05:57 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 17:32:11 America/Denver] PHP Warning:  fopen(users/ofir.php): failed to open stream: File exists in /home1/outptcom/public_html/knifes/knifes/add.php on line 6
+[04-Apr-2018 17:32:11 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[04-Apr-2018 17:32:11 America/Denver] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 7
+[04-Apr-2018 17:38:21 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 17:38:22 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 17:38:23 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 17:38:24 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 17:38:36 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 17:38:37 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 17:38:46 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 17:38:47 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 17:38:49 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 17:38:51 America/Denver] PHP Parse error:  syntax error, unexpected '";} else echo "' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home1/outptcom/public_html/knifes/knifes/game.php on line 4
+[04-Apr-2018 17:42:39 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 17:42:58 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 17:51:39 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 17:51:44 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 17:51:49 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 18:01:28 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 18:02:24 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 18:02:43 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 18:03:04 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[04-Apr-2018 18:04:22 America/Denver] PHP Fatal error:  Cannot break/continue 2 levels in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[05-Apr-2018 00:06:52 America/Denver] PHP Parse error:  syntax error, unexpected 'in_array' (T_STRING), expecting '(' in /home1/outptcom/public_html/knifes/knifes/friend.php on line 10
+[06-Apr-2018 05:39:51 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:39:56 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:01 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:06 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:11 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:16 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:21 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:26 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:31 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:36 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:41 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:46 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:51 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:40:56 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:01 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:06 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:11 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:16 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:21 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:26 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:31 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:36 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:41 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:46 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:51 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:41:56 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:01 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:06 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:11 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:16 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:22 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:26 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:31 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:36 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:41 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:46 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:52 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:42:56 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:01 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:06 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:11 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:16 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:21 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:26 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:31 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:37 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:41 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:46 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:51 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:43:56 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:01 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:06 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:11 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:16 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:21 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:26 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:32 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:36 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:41 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:46 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:51 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:44:56 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:45:02 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:45:07 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:45:11 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:45:16 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:45:21 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:45:26 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/admin.php on line 22
+[06-Apr-2018 05:51:22 America/Denver] PHP Fatal error:  Function name must be a string in /home1/outptcom/public_html/knifes/knifes/admin.php on line 73
+[06-Apr-2018 05:51:24 America/Denver] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home1/outptcom/public_html/knifes/knifes/admin.php on line 73
+[06-Apr-2018 05:51:29 America/Denver] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home1/outptcom/public_html/knifes/knifes/admin.php on line 73
+[06-Apr-2018 05:51:31 America/Denver] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home1/outptcom/public_html/knifes/knifes/admin.php on line 73
+[06-Apr-2018 05:52:00 America/Denver] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home1/outptcom/public_html/knifes/knifes/admin.php on line 73
+[06-Apr-2018 05:52:19 America/Denver] PHP Fatal error:  Array callback has to contain indices 0 and 1 in /home1/outptcom/public_html/knifes/knifes/admin.php on line 73
+[09-Apr-2018 04:36:47 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/admin.php on line 36
+[09-Apr-2018 05:13:10 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[09-Apr-2018 05:13:10 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[08-May-2018 10:45:51 America/Denver] PHP Warning:  include(users/ofir.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 6
+[08-May-2018 10:45:51 America/Denver] PHP Warning:  include(): Failed opening 'users/ofir.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 6
+[23-May-2018 06:43:27 America/Denver] PHP Notice:  Undefined index: friend in /home1/outptcom/public_html/knifes/knifes/friend.php on line 3
+[23-May-2018 06:43:27 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 6
+[23-May-2018 06:43:27 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 6
+[23-May-2018 06:43:33 America/Denver] PHP Notice:  Undefined index: friend in /home1/outptcom/public_html/knifes/knifes/friend.php on line 3
+[23-May-2018 06:43:33 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 6
+[23-May-2018 06:43:33 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 6
+[23-May-2018 06:43:39 America/Denver] PHP Notice:  Undefined index: friend in /home1/outptcom/public_html/knifes/knifes/friend.php on line 3
+[23-May-2018 06:43:39 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 6
+[23-May-2018 06:43:39 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 6
+[23-May-2018 08:28:22 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[23-May-2018 08:28:22 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[23-May-2018 08:28:22 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 10
+[23-May-2018 08:28:32 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[23-May-2018 08:28:32 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[23-May-2018 08:28:32 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 10
+[23-May-2018 08:28:34 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[23-May-2018 08:28:34 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[23-May-2018 08:28:34 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 10
+[23-May-2018 08:29:45 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[23-May-2018 08:29:45 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[23-May-2018 16:45:05 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[23-May-2018 16:45:05 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[11-Mar-2019 16:52:10 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[11-Mar-2019 16:52:10 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[11-Mar-2019 16:54:47 America/Denver] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[11-Mar-2019 16:54:47 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/אופיר.php on line 1
+[11-Mar-2019 16:54:47 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/add.php on line 42
+[11-Mar-2019 17:37:34 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:40:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[11-Mar-2019 18:40:06 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:40:16 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:40:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:40:24 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:40:31 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:40:36 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:41:56 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:41:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:41:58 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:41:59 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:42:04 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:42:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:42:08 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[11-Mar-2019 18:42:08 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:42:13 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:42:14 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:42:24 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[11-Mar-2019 18:42:25 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:42:29 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:42:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:42:33 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:42:34 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:42:35 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:42:36 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:42:41 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:42:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:42:44 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:42:45 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:43:01 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:43:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:43:04 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:43:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:43:07 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:43:08 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:43:11 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:43:12 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:43:55 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[11-Mar-2019 18:43:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:43:59 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:44:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:44:03 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:44:04 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:44:32 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 18:44:32 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:44:52 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 7
+[11-Mar-2019 18:44:52 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 7
+[11-Mar-2019 18:44:53 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:44:57 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:45:18 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:45:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:45:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:45:23 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:45:23 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[11-Mar-2019 18:45:23 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[11-Mar-2019 18:45:23 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[11-Mar-2019 18:45:23 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/game.php on line 10
+[11-Mar-2019 18:45:23 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/game.php on line 10
+[11-Mar-2019 18:46:49 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[11-Mar-2019 18:46:49 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 11
+[11-Mar-2019 18:46:49 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 11
+[11-Mar-2019 18:46:49 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:46:49 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[11-Mar-2019 18:46:49 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[11-Mar-2019 18:46:49 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[11-Mar-2019 18:46:49 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:46:49 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:46:49 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 12
+[11-Mar-2019 18:46:55 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[11-Mar-2019 18:46:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:46:56 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[11-Mar-2019 18:46:56 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[11-Mar-2019 18:46:56 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[11-Mar-2019 18:46:56 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:46:56 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:46:56 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 12
+[11-Mar-2019 18:47:06 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:47:06 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:47:06 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/admin.php on line 38
+[11-Mar-2019 18:47:11 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:47:11 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:47:11 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/add.php on line 42
+[11-Mar-2019 18:47:38 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:47:38 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:47:40 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:47:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:47:46 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:47:46 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[11-Mar-2019 18:47:46 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[11-Mar-2019 18:47:46 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[11-Mar-2019 18:47:46 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/game.php on line 10
+[11-Mar-2019 18:47:46 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/game.php on line 10
+[11-Mar-2019 18:50:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:50:45 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:50:48 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:50:54 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:51:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:51:02 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[11-Mar-2019 18:51:02 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[11-Mar-2019 18:51:02 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[11-Mar-2019 18:51:02 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/game.php on line 10
+[11-Mar-2019 18:51:02 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/game.php on line 10
+[11-Mar-2019 18:51:06 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[11-Mar-2019 18:51:06 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 11
+[11-Mar-2019 18:51:06 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 11
+[11-Mar-2019 18:51:07 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:51:07 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[11-Mar-2019 18:51:07 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[11-Mar-2019 18:51:07 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[11-Mar-2019 18:51:07 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:51:07 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:51:07 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 12
+[11-Mar-2019 18:51:09 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[11-Mar-2019 18:51:10 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:51:10 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[11-Mar-2019 18:51:10 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[11-Mar-2019 18:51:10 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[11-Mar-2019 18:51:10 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:51:10 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:51:10 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 12
+[11-Mar-2019 18:51:12 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[11-Mar-2019 18:51:13 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:51:13 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[11-Mar-2019 18:51:13 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[11-Mar-2019 18:51:13 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[11-Mar-2019 18:51:13 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:51:13 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:51:13 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 12
+[11-Mar-2019 18:52:28 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:52:28 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:52:28 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/add.php on line 42
+[11-Mar-2019 18:52:33 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:52:33 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:52:33 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/add.php on line 42
+[11-Mar-2019 18:52:41 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:52:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:52:43 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:52:44 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:52:48 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:52:48 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[11-Mar-2019 18:52:48 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[11-Mar-2019 18:52:48 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[11-Mar-2019 18:52:48 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:52:48 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:52:48 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 12
+[11-Mar-2019 18:52:49 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[11-Mar-2019 18:52:50 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:52:50 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[11-Mar-2019 18:52:50 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[11-Mar-2019 18:52:50 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[11-Mar-2019 18:52:50 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:52:50 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:52:50 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 12
+[11-Mar-2019 18:53:51 America/Denver] PHP Warning:  fopen(users/tal.php): failed to open stream: File exists in /home1/outptcom/public_html/knifes/knifes/add.php on line 6
+[11-Mar-2019 18:53:51 America/Denver] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 8
+[11-Mar-2019 18:53:51 America/Denver] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home1/outptcom/public_html/knifes/knifes/add.php on line 8
+[11-Mar-2019 18:53:51 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:53:51 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[11-Mar-2019 18:53:51 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/add.php on line 42
+[11-Mar-2019 18:54:32 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:54:33 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:54:33 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:54:34 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:54:40 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:56:12 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:56:13 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:56:16 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:56:18 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:56:45 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:56:48 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:56:49 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:58:18 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:58:20 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:58:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:58:24 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 18:58:31 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:00:39 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:00:40 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:00:41 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:00:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:00:46 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:10:52 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:10:54 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:10:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:10:58 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:11:04 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:11:06 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:11:07 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:11:07 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:13:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:13:28 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:13:29 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:13:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:13:32 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:14:40 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 31
+[11-Mar-2019 19:14:40 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:14:59 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 31
+[11-Mar-2019 19:15:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:02 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 31
+[11-Mar-2019 19:15:03 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:04 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home1/outptcom/public_html/knifes/knifes/attack.php on line 31
+[11-Mar-2019 19:15:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:28 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:29 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:31 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:32 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:36 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:40 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:44 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:15:59 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:29:54 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:29:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:29:56 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:29:57 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:29:58 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:29:59 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:29:59 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:00 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:30:01 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:01 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:01 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:30:01 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:30:02 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:30:02 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:03 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:30:03 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:03 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:30:03 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:03 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:30:04 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:04 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:30:04 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:30:04 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:30:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:30:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:32:41 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:32:41 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:32:47 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:32:48 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:34:12 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:34:13 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:34:26 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:34:27 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:34:34 America/Denver] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home1/outptcom/public_html/knifes/knifes/attack.php on line 26
+[11-Mar-2019 19:34:35 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:35:07 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:35:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:35:39 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:35:41 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:35:43 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:36:11 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:36:12 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:36:13 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:36:13 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:36:16 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:36:43 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:36:45 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:36:46 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:37:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:37:10 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:37:10 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:37:11 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:37:12 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:38:21 America/Denver] PHP Warning:  include(users/mosje.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 7
+[11-Mar-2019 19:38:21 America/Denver] PHP Warning:  include(): Failed opening 'users/mosje.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 7
+[11-Mar-2019 19:38:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:38:25 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:38:26 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:38:27 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:38:28 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:38:29 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:38:35 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:38:37 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:38:39 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:39:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:39:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:39:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:39:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:39:24 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:25 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:43 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:43 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:44 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:45 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:46 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:48 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:49 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:50 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:50 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:51 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:51 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:40:51 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:41:28 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:41:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:41:31 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:41:32 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:41:33 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:42:28 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:42:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:42:31 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:42:47 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:42:50 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:44:08 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:44:09 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:44:11 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:44:12 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:44:13 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:44:41 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:45:08 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:45:44 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:45:47 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:45:49 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:46:28 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:46:33 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:46:34 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:46:35 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:46:35 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:46:39 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:46:41 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:47:55 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:47:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:47:57 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:47:58 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:47:59 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:48:06 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:48:38 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:48:41 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:48:46 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:49:06 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[11-Mar-2019 19:49:06 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[11-Mar-2019 19:49:06 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:49:39 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:49:57 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:49:59 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:01 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:25 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:26 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:38 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:55 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:57 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:50:59 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:51:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[11-Mar-2019 19:51:39 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[11-Mar-2019 19:51:40 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 05:28:51 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/attack.php on line 5
+[12-Mar-2019 05:28:51 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 10
+[12-Mar-2019 05:28:51 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 10
+[12-Mar-2019 05:28:51 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 05:28:51 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[12-Mar-2019 05:28:51 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[12-Mar-2019 05:28:51 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[12-Mar-2019 05:28:51 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 05:28:51 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 05:28:51 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 12
+[12-Mar-2019 05:28:54 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/attack.php on line 5
+[12-Mar-2019 05:28:55 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 05:28:55 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 5
+[12-Mar-2019 05:28:55 America/Denver] PHP Notice:  Undefined index: pass in /home1/outptcom/public_html/knifes/knifes/game.php on line 8
+[12-Mar-2019 05:28:55 America/Denver] PHP Notice:  Undefined index: user in /home1/outptcom/public_html/knifes/knifes/game.php on line 9
+[12-Mar-2019 05:28:55 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 05:28:55 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 05:28:55 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/game.php on line 12
+[12-Mar-2019 05:29:04 America/Denver] PHP Warning:  include(users/mosje.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[12-Mar-2019 05:29:04 America/Denver] PHP Warning:  include(): Failed opening 'users/mosje.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[12-Mar-2019 05:29:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 05:29:10 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 05:29:25 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[12-Mar-2019 05:29:26 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 05:29:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[12-Mar-2019 05:29:31 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:13:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[12-Mar-2019 08:13:00 America/Denver] PHP Warning:  include(users/jesus.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 6
+[12-Mar-2019 08:13:00 America/Denver] PHP Warning:  include(): Failed opening 'users/jesus.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 6
+[12-Mar-2019 08:13:01 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:13:16 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:13:20 America/Denver] PHP Warning:  include(users/ben.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[12-Mar-2019 08:13:20 America/Denver] PHP Warning:  include(): Failed opening 'users/ben.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[12-Mar-2019 08:13:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:17:43 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:17:43 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:17:43 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/attack.php on line 8
+[12-Mar-2019 08:17:43 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:17:58 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:21:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[12-Mar-2019 08:21:06 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:21:09 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:22:25 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:22:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[12-Mar-2019 08:22:31 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:22:45 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[12-Mar-2019 08:22:46 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:22:48 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:22:58 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[12-Mar-2019 08:22:59 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:23:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:23:12 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[12-Mar-2019 08:23:13 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:23:16 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:23:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:24:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:24:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:24:22 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:24:22 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:24:22 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/attack.php on line 8
+[12-Mar-2019 08:24:23 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:24:26 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:24:26 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:24:26 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/attack.php on line 8
+[12-Mar-2019 08:24:26 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:24:31 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:24:31 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:24:31 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/attack.php on line 8
+[12-Mar-2019 08:24:32 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:24:43 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:24:43 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:24:43 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/attack.php on line 8
+[12-Mar-2019 08:24:52 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:24:53 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:24:53 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:24:53 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/attack.php on line 8
+[12-Mar-2019 08:24:54 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:25:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:25:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:25:10 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:28:55 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:29:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:29:07 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:29:13 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:32:07 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:32:11 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:32:17 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:32:20 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/friend.php on line 4
+[12-Mar-2019 08:32:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:32:23 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:35:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:35:37 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:36:31 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:37:11 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:37:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:37:50 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:38:54 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 08:40:49 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:40:49 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:40:49 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/admin.php on line 38
+[12-Mar-2019 08:40:53 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:40:53 America/Denver] PHP Notice:  Undefined index: points in /home1/outptcom/public_html/knifes/knifes/users/.php on line 2
+[12-Mar-2019 08:40:53 America/Denver] PHP Notice:  Undefined index: friends in /home1/outptcom/public_html/knifes/knifes/add.php on line 42
+[12-Mar-2019 08:53:54 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 15:11:06 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[12-Mar-2019 15:11:06 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[12-Mar-2019 15:11:07 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 15:11:16 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 15:11:51 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[12-Mar-2019 15:11:51 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[12-Mar-2019 15:11:52 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 15:11:57 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 15:11:59 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 15:12:38 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 15:13:10 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[12-Mar-2019 15:13:19 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 06:32:53 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[13-Mar-2019 06:32:53 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[13-Mar-2019 06:32:54 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 06:32:59 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[13-Mar-2019 06:32:59 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[13-Mar-2019 06:33:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 06:33:01 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[13-Mar-2019 06:33:01 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[13-Mar-2019 06:33:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 06:34:36 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 06:57:03 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 06:57:08 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 10:14:54 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 10:52:14 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 10:52:14 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 10:52:15 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 10:52:18 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[13-Mar-2019 10:52:18 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[13-Mar-2019 10:52:19 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 10:52:22 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 10:52:22 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 10:52:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 10:52:23 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 10:52:23 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 10:52:24 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 10:52:24 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[13-Mar-2019 10:52:24 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[13-Mar-2019 10:52:25 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 10:52:31 America/Denver] PHP Warning:  include(users/tal.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 10:52:31 America/Denver] PHP Warning:  include(): Failed opening 'users/tal.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 10:52:32 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 11:13:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 11:13:07 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 11:14:18 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 11:14:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 11:39:20 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 11:39:22 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 11:39:22 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 11:39:23 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 14:11:37 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 14:11:38 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 14:11:39 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 14:11:42 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 14:11:42 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[13-Mar-2019 14:11:43 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 14:11:51 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[13-Mar-2019 14:11:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 00:57:49 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 00:58:04 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:03:30 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[14-Mar-2019 01:03:30 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[14-Mar-2019 01:03:31 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:03:31 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[14-Mar-2019 01:03:31 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[14-Mar-2019 01:03:32 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:04:23 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:06:55 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:07:09 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:08:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:08:13 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[14-Mar-2019 01:08:13 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/friend.php on line 7
+[14-Mar-2019 01:08:14 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:08:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:14:15 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:14:37 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:16:10 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 01:16:10 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 01:16:11 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:16:23 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:16:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:16:37 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:16:43 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:16:52 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:16:59 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:17:08 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:17:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:17:34 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:17:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 01:31:48 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:38:19 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:38:23 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:38:24 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:38:34 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:38:36 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:38:39 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:38:41 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:38:44 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 04:38:44 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 04:38:45 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:38:51 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:03 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:04 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:04 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:05 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:06 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:06 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:07 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:09 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:09 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:39:10 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:40:51 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 04:40:54 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 08:03:51 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 08:07:26 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 08:07:26 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 08:07:27 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 08:07:54 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 09:15:51 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:17:18 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:19:10 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:20:02 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:20:05 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:20:08 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:20:16 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:20:19 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:20:24 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:20:28 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:20:33 America/Denver] PHP Notice:  Undefined variable: pass in /home1/outptcom/public_html/knifes/knifes/add.php on line 12
+[14-Mar-2019 09:31:03 America/Denver] PHP Warning:  include(users/lea.php.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/add.php on line 11
+[14-Mar-2019 09:31:03 America/Denver] PHP Warning:  include(): Failed opening 'users/lea.php.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/add.php on line 11
+[14-Mar-2019 09:31:03 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/add.php on line 13
+[14-Mar-2019 09:34:03 America/Denver] PHP Warning:  include(users/lea.php.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/add.php on line 11
+[14-Mar-2019 09:34:03 America/Denver] PHP Warning:  include(): Failed opening 'users/lea.php.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/add.php on line 11
+[14-Mar-2019 09:34:03 America/Denver] PHP Notice:  Undefined variable: player in /home1/outptcom/public_html/knifes/knifes/add.php on line 13
+[14-Mar-2019 09:39:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 09:39:07 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 09:40:23 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 09:40:25 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 09:44:34 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/outptcom/public_html/knifes/knifes/admin.php on line 45
+[14-Mar-2019 09:44:37 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/outptcom/public_html/knifes/knifes/admin.php on line 45
+[14-Mar-2019 09:44:41 America/Denver] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home1/outptcom/public_html/knifes/knifes/admin.php on line 45
+[14-Mar-2019 10:52:47 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:06 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:09 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:24 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:29 America/Denver] PHP Warning:  include(users/chai.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 10:53:29 America/Denver] PHP Warning:  include(): Failed opening 'users/chai.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 10:53:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:36 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:41 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:49 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:51 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:53:58 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:54:10 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:54:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:54:26 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:54:31 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:54:40 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:54:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:54:44 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:54:47 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:54:53 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:55:00 America/Denver] PHP Warning:  include(users/.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 10:55:00 America/Denver] PHP Warning:  include(): Failed opening 'users/.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 10:55:01 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:55:11 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:55:15 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:55:16 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:55:17 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:55:17 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:55:28 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 10:55:34 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 11:25:11 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 11:25:20 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 11:25:25 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 11:25:50 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 11:25:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 11:26:04 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 11:26:07 America/Denver] PHP Warning:  include(users/ta.php): failed to open stream: No such file or directory in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 11:26:07 America/Denver] PHP Warning:  include(): Failed opening 'users/ta.php' for inclusion (include_path='.:/usr/php/56/usr/lib64:/usr/php/56/usr/share/pear') in /home1/outptcom/public_html/knifes/knifes/attack.php on line 6
+[14-Mar-2019 11:26:08 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 11:26:15 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 13:38:51 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 13:39:00 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 13:39:06 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 13:39:14 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 13:39:20 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[14-Mar-2019 13:39:26 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:22:53 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:23:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:23:15 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:23:16 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:23:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:25:01 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:25:09 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:34:21 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:34:34 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:34:40 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:34:48 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:34:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:35:01 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:35:06 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:35:14 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:35:18 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[15-Mar-2019 02:35:23 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[17-Mar-2019 01:00:42 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[17-Mar-2019 01:00:50 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[17-Mar-2019 01:00:56 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[17-Mar-2019 01:01:02 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[17-Mar-2019 01:01:08 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[17-Mar-2019 01:01:14 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[17-Mar-2019 01:01:22 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[17-Mar-2019 01:01:24 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[17-Mar-2019 05:50:30 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
+[17-Mar-2019 05:50:38 America/Denver] PHP Notice:  Undefined variable: _SESSION in /home1/outptcom/public_html/knifes/knifes/game.php on line 1
